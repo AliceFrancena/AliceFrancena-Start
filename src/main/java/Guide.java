@@ -55,7 +55,7 @@ public class Guide {
      *  languages. This method must return something that is a String. If we do not wish for this method to
      *  return anything, we could set the return type to void.
      *
-     *  example usage: guideObject1.guideMethod("hello"); returns "Success from guide object 1! it says: hello"
+     *  
      *
      * @param message a message variable, which will be a variable of type String. This method
      *                will use the message variable as part of the text that is returned by this method. A
